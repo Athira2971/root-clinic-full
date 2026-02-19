@@ -1,0 +1,23 @@
+# Node / React
+node_modules/
+build/
+dist/
+
+# Django / Python
+*.pyc
+__pycache__/
+db.sqlite3
+*.log
+
+# Env files
+.env
+
+# Keystores / API keys / SDKs
+*.keystore
+*.pub
+*.img
+
+# OS / IDE files
+.vscode/
+.DS_Store
+Thumbs.db
